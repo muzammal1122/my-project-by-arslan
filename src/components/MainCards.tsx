@@ -5,7 +5,7 @@ type Props = {
   desc: string;
   imageUrl: string;
 };
-
+// hellow
 const MainCards = (props: Props) => {
   const { imageUrl, title, desc } = props;
   return (
